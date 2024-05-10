@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2973501ae0a4e04fa8fe5e0c5de1c97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hazard: {fileID: 5641337385475059697, guid: c1f1cc11f76465645bae2eb8590ecf1e,
+      type: 3}
+  - player: {instanceID: 0}
+  - hazardSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
